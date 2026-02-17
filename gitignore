@@ -109,3 +109,7 @@ api_keys.txt
 # ============================================================
 tensorboard_logs/
 events.out.tfevents.*
+git add .gitignore
+git commit -m "Update .gitignore to exclude datasets and model files"
+git push origin main
+
